@@ -1,4 +1,4 @@
-![Mini Unix Shell](https://raw.githubusercontent.com/Cr4xen/Mini-Unix-Shell/main/unix.jpg)
+![Mini Unix Shell](https://github.com/Cr4xen/Mini-Unix-Shell/blob/main/unix%20image.gif)
 
 # MiniShell (minish)
 
