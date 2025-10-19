@@ -1,3 +1,6 @@
+![Mini Unix Shell](https://raw.githubusercontent.com/Cr4xen/Mini-Unix-Shell/main/unix.jpg)
+
+
 # MiniShell (minish)
 
 `minish` is a simple, POSIX-compliant UNIX-like shell written in C. It supports external commands, command arguments, built-in commands, I/O redirection, piping, and basic job control.
