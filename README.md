@@ -1,6 +1,6 @@
-![Mini Unix Shell](https://github.com/Cr4xen/Mini-Unix-Shell/blob/main/unix%20image.gif)
-
 # MiniShell (minish)
+
+![Mini Unix Shell](https://github.com/Cr4xen/Mini-Unix-Shell/blob/main/unix%20image.gif)
 
 [![Language: C](https://img.shields.io/badge/Language-C-blue?style=flat-square)](https://www.gnu.org/software/gnu-c-manual/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
